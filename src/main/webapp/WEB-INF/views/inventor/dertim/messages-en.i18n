@@ -1,0 +1,31 @@
+inventor.dertim.list.label.code = Code
+inventor.dertim.list.label.subject = Subject
+inventor.dertim.list.label.item = Item
+
+inventor.dertim.list.button.create = Create
+
+inventor.dertim.form.label.code = Code:
+inventor.dertim.form.label.creationMoment = CreationMoment:
+inventor.dertim.form.label.subject = Subject:
+inventor.dertim.form.label.summary = Summary:
+inventor.dertim.form.label.initialPeriod = InitialPeriod:
+inventor.dertim.form.label.endPeriod = EndPeriod:
+inventor.dertim.form.label.provision = Provision:
+inventor.dertim.form.label.additionalInfo = AdditionalInfo:
+inventor.dertim.form.label.item = Component:
+
+inventor.dertim.form.button.update = Update
+inventor.dertim.form.button.delete = Delete
+inventor.dertim.form.button.create = Create
+
+inventor.dertim.form.error.code-date = The date is not current
+inventor.dertim.form.error.regex = The code must be the current date (yymmdd) followed by a "#" and 3 word characters
+inventor.dertim.form.error.not-unique = The code is not unique
+inventor.dertim.form.error.spam = This text is a spam text
+inventor.dertim.form.error.start-period-not-enough = The date must be at least one month after the creation date
+inventor.dertim.form.error.end-period-one-week-before-start-period = The date must be at least one week after the start date
+inventor.dertim.form.error.incorrect-currency = This currency is not avalaible in the system
+inventor.dertim.form.error.negative-budget = The budget must not be negative
+inventor.dertim.form.error.item-null = There must be one item
+inventor.dertim.form.error.item-does-not-exist = This item doesn't exist
+inventor.dertim.form.error.item-not-available = No components available

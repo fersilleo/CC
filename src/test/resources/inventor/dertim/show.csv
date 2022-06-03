@@ -1,0 +1,3 @@
+recordIndex,code,item,creationMoment,subject,summary,initialPeriod,endPeriod,provision,additionalInfo
+0,220301#dee,AAA-000,2022/03/01 00:00,Primer dertim,Esta es una entidad creada para el Control Check de DP,2022/05/01 00:00,2022/05/10 00:00,"EUR 15,000.00",https://www.twitch.tv
+1,220301#dii,AAA-000-A,2022/03/01 00:30,Segundo dertim,Este no tiene link,2022/05/01 12:00,2022/05/10 12:00,"EUR 15,000.00",

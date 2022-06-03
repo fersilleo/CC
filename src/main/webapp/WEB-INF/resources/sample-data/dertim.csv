@@ -1,0 +1,3 @@
+key,code,creationMoment,subject,summary,initialPeriod,endPeriod,provision,additionalInfo,key:item
+dertim-01,220301#dee,2022/03/01 00:00,Primer dertim,Esta es una entidad creada para el Control Check de DP,2022/05/01 00:00,2022/05/10 00:00,"EUR 15,000.00",https://www.twitch.tv,Item-11
+dertim-02,220301#dii,2022/03/01 00:30,Segundo dertim,Este no tiene link,2022/05/01 12:00,2022/05/10 12:00,"EUR 15,000.00",,Item-12

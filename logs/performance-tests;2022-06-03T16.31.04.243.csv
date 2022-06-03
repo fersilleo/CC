@@ -1,0 +1,3 @@
+timestamp,test-class,test-method,time,description,result
+"2022-06-03 16:29:45.626","acme.testing.inventor.dertim.InventorDertimCreateTest","negativeTest",15910,""[1] code=, items=CCC-222-C, subject=null, summary=null, initialPeriod=null, endPeriod=null, provision=null, additionalInfo=null"","OK"
+"2022-06-03 16:29:56.071","acme.testing.inventor.dertim.InventorDertimCreateTest","negativeTest",9983,""[2] code=, items=CCC-222-C, subject=Prueba, summary=Prueba, initialPeriod=2025/05/01 00:00, endPeriod=2025/05/08 00:00, provision=EUR 15.00, additionalInfo=https://www.twitch.tv"","OK"

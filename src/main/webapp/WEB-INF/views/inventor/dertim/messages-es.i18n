@@ -1,0 +1,31 @@
+inventor.dertim.list.label.code = Código
+inventor.dertim.list.label.subject = Tema
+inventor.dertim.list.label.item = Item
+
+inventor.dertim.list.button.create = Crear
+
+inventor.dertim.form.label.code = Código:
+inventor.dertim.form.label.creationMoment = MomentoCreacion:
+inventor.dertim.form.label.subject = Tema:
+inventor.dertim.form.label.summary = Sumario:
+inventor.dertim.form.label.initialPeriod = PeriodoInicial:
+inventor.dertim.form.label.endPeriod = PeriodoFinal:
+inventor.dertim.form.label.provision = Disposicion:
+inventor.dertim.form.label.additionalInfo = InformacionAdicional:
+inventor.dertim.form.label.item = Componente:
+
+inventor.dertim.form.button.update = Actualizar
+inventor.dertim.form.button.delete = Borrar
+inventor.dertim.form.button.create = Crear
+
+inventor.dertim.form.error.code-date = La fecha no es la actual
+inventor.dertim.form.error.regex = El código debe ser la fecha actual (yymmdd) seguido de un "#" y 3 letras o numeros
+inventor.dertim.form.error.not-unique = El código no es único
+inventor.dertim.form.error.spam = Este texto es un texto spam
+inventor.dertim.form.error.start-period-not-enough = La fecha debe ser al menos un mes después de la fecha de creación
+inventor.dertim.form.error.end-period-one-week-before-start-period = La fecha debe ser al menos una semana después de la fecha de inicio
+inventor.dertim.form.error.incorrect-currency = Esta divisa no está disponible en el sistema
+inventor.dertim.form.error.negative-budget = El presupuesto no debe ser negativo
+inventor.dertim.form.error.item-null = Debe de haber un item
+inventor.dertim.form.error.item-does-not-exist = El item no existe
+inventor.dertim.form.error.item-not-available = No quedan componentes disponibles
